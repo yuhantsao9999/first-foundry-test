@@ -6,9 +6,10 @@
 $ git clone https://github.com/yuhantsao9999/first-foundry-test.git
 ```
 
-### Find WETH.t.sol
+### Find the repo and WETH.t.sol
 
 ```shell
+$ cd first-foundry-test
 $ cd test
 ```
 
