@@ -3,7 +3,7 @@
 ### clone repo
 
 ```shell
-$ git clone https://github.com/andylinee/aws-smart-contract.git
+$ git clone https://github.com/yuhantsao9999/first-foundry-test.git
 ```
 
 ### find WETH.t.sol
