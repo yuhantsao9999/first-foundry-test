@@ -1,12 +1,12 @@
-## how to run test
+## How to run test
 
-### clone repo
+### Clone repo
 
 ```shell
 $ git clone https://github.com/yuhantsao9999/first-foundry-test.git
 ```
 
-### find WETH.t.sol
+### Find WETH.t.sol
 
 ```shell
 $ cd test
