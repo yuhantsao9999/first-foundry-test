@@ -1,6 +1,6 @@
 ## how to run test
 
-### clone
+### clone repo
 
 ```shell
 $ git clone https://github.com/andylinee/aws-smart-contract.git
@@ -20,5 +20,8 @@ $ forge test
 
 ### (Optional) Run test for specific Test function
 
+```shell
 // forge test --mt {Test function name} -vvv
-example: forge test --mt test_Deposit_should_transfer_correct_ether_amount -vvv
+example:
+$ forge test --mt test_Deposit_should_transfer_correct_ether_amount -vvv
+```
